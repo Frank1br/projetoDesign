@@ -1,27 +1,53 @@
-# Landing Page para Academia "Strongest" 
+# Landing Page para Academia "Strongest"
 
-Este projeto é uma landing page desenvolvida para a academia fictícia "Strongest", com o objetivo de demonstrar uma aplicação prática de design responsivo utilizando HTML5, CSS3, Bootstrap 5, e JavaScript. A página apresenta informações sobre a academia, planos disponíveis, localizações, e inclui um formulário de contato funcional.
+Este projeto é uma **landing page** desenvolvida para a academia fictícia **"Strongest"**, com o objetivo de aplicar conhecimentos em design responsivo e tecnologias modernas de desenvolvimento web. A página apresenta informações detalhadas sobre a academia, incluindo planos de assinatura, localização e um formulário de contato funcional.
 
-## Funcionalidades
+## 🛠️ Funcionalidades Principais
 
-- **Barra de Navegação Responsiva:** Inclui links para as seções principais e um botão para abrir um modal de login.
-- **Carrossel de Imagens:** Apresenta banners promocionais de forma dinâmica com transições automáticas.
-- **Seções Informativas:**
-  - Quem somos
-  - Objetivos
-  - Planos de assinatura detalhados
-- **Formulário de Contato:** Permite ao usuário enviar mensagens com validação básica de campos.
-- **Design Responsivo:** Adaptado para dispositivos móveis e desktops.
+- **Barra de Navegação Responsiva**:
+  - Links para as principais seções da página.
+  - Botão para abrir um **modal** de login.
 
-## Tecnologias Utilizadas
+- **Carrossel de Imagens**:
+  - Exibição dinâmica de banners promocionais, com transições automáticas.
 
-- **HTML5:** Estruturação semântica da página.
-- **CSS3:** Customização de estilos com um arquivo separado.
-- **Bootstrap 5:** Criação de componentes responsivos como a navbar, modal, carrossel, e cartões.
-- **JavaScript (Bootstrap Bundle):** Controle de funcionalidades dinâmicas como o modal e o carrossel.
+- **Seções Informativas**:
+  - **Quem Somos**: Apresentação da academia e seus valores.
+  - **Objetivos**: Detalhes sobre as metas e diferenciais da academia.
+  - **Planos de Assinatura**: Listagem clara e objetiva dos planos disponíveis.
 
-## Como Usar
+- **Formulário de Contato**:
+  - Permite o envio de mensagens, com validação básica dos campos para melhor experiência do usuário.
 
-1. Clone este repositório:
+- **Design Responsivo**:
+  - Adaptado para diferentes dispositivos, incluindo desktops, tablets e smartphones.
+
+## 🚀 Tecnologias Utilizadas
+
+- **HTML5**: Estrutura semântica da página.
+- **CSS3**: Estilização personalizada com design moderno.
+- **Bootstrap 5**: Desenvolvimento rápido de componentes responsivos, como navbar, carrossel e modal.
+- **JavaScript (Bootstrap Bundle)**: Implementação de funcionalidades dinâmicas e interativas.
+
+## 🎯 Propósito do Projeto
+
+Este projeto foi desenvolvido para consolidar conhecimentos em **desenvolvimento web front-end**, focando na criação de **interfaces responsivas** e **experiências dinâmicas para o usuário**.
+
+## 📚 Aprendizados
+
+- Criação de layouts responsivos e visualmente atraentes.
+- Uso prático de componentes do **Bootstrap 5** para agilizar o desenvolvimento.
+- Validação e manipulação básica de formulários em páginas web.
+- Integração de funcionalidades dinâmicas com JavaScript.
+
+## 📷 Prévia do Projeto
+
+*Inclua capturas de tela ou GIFs do projeto para melhor visualização.*
+
+---
+
+### 🔗 Como Executar o Projeto
+
+1. Clone o repositório em sua máquina local:
    ```bash
    git clone https://github.com/seuusuario/strongest-landing-page.git
